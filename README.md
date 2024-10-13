@@ -1,0 +1,1 @@
+This PHP script checks if a given number is a factorial number or not. A factorial of a number is the result of  number times all number less than except zero. eg factorial of 3 is 3x2x1=6. 
